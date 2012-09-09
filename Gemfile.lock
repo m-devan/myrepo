@@ -32,11 +32,6 @@ GEM
     annotate (2.5.0)
       rake
     arel (3.0.2)
-<<<<<<< HEAD
-    bcrypt-ruby (3.0.1-x86-mingw32)
-=======
-    bootstrap-sass (2.0.4.0)
->>>>>>> filling-in-layout
     builder (3.0.0)
     capybara (1.1.2)
       mime-types (>= 1.16)
@@ -147,12 +142,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-<<<<<<< HEAD
   annotate (= 2.5.0)
-  bcrypt-ruby (= 3.0.1)
-=======
-  bootstrap-sass (= 2.0.4)
->>>>>>> filling-in-layout
   capybara (= 1.1.2)
   coffee-rails (= 3.2.2)
   jquery-rails (= 2.0.2)
